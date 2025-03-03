@@ -27,6 +27,7 @@ node bot.mjs --help
 - https://t.me/BotSorati/721
 - https://t.me/BotSorati/722
 - https://t.me/BotSorati/723
+- https://t.me/BotSorati/724
 
 ## Disclaimer
 This project is for educational purposes and you are responsible for any misuse or blocking.
